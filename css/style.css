@@ -121,7 +121,6 @@ grid-column:2/4;
   grid-template-rows: repeat(2,1fr);
   gap: 1rem;
   padding: 1rem 0;
-
 }
 
 
@@ -130,7 +129,7 @@ grid-column:2/4;
   .main{
     display: flex;
     flex-direction: column;
-    width: 18.5rem;
+    width: 20rem;
     height: 100vh;
   }
 }
